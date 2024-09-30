@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", async () => {
                         </br>
                         <div class="subtitle">
                         The current branch name regex is:
-                        </div>
+                        adghfd</div>
                     </div>`;
             });
         } else {
